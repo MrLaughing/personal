@@ -16,7 +16,11 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+/**
+ * 联系我
+ * @author Laughing_Lz
+ * @time 2016年8月27日
+ */
 public class Contact extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
